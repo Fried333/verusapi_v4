@@ -1,0 +1,6 @@
+requests
+httpx
+python-dotenv
+fastapi
+uvicorn[standard]
+pydantic
