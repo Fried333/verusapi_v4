@@ -1,0 +1,74 @@
+{
+  "currency_contract_mapping": {
+    "iGBs4DWztRNvNEJBt4mqHszLxfKTNHTkhM": {
+      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "eth_symbol": "DAI",
+      "vrsc_symbol": "DAI.vETH"
+    },
+    "iC5TQFrFXSYLQGkiZ8FYmZHFJzaRF5CYgE": {
+      "address": "0x1aBaEA1f7C830bD89Acc67eC4af516284b1bC33c",
+      "eth_symbol": "EURC",
+      "vrsc_symbol": "EURC.vETH"
+    },
+    "iCkKJuJScy4Z6NSDK7Mt42ZAB2NEnAE1o4": {
+      "address": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
+      "eth_symbol": "MKR",
+      "vrsc_symbol": "MKR.vETH"
+    },
+    "iL62spNN42Vqdxh8H5nrfNe8d6Amsnfkdx": {
+      "address": "0x4f14E88B5037F0cA24348Fa707E4A7Ee5318d9d5",
+      "eth_symbol": "NATION",
+      "vrsc_symbol": "NATI.vETH"
+    },
+    "i5w5MuNik5NtLcYmNzcvaoixooEebB6MGV": {
+      "address": "0xBc2738BA63882891094C99E59a02141Ca1A1C36a",
+      "eth_symbol": "VRSC",
+      "vrsc_symbol": "VRSC"
+    },
+    "i9nLSK4S1U5sVMq4eJUHR1gbFALz56J9Lj": {
+      "address": "0x0655977FEb2f289A4aB78af67BAB0d17aAb84367",
+      "eth_symbol": "CRVUSD",
+      "vrsc_symbol": "scrvUSD.vETH"
+    },
+    "iS8TfRPfVpKo5FVfSUzfHBQxo9KuzpnqLU": {
+      "address": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
+      "eth_symbol": "TBTC",
+      "vrsc_symbol": "tBTC.vETH"
+    },
+    "iExBJfZYK7KREDpuhj6PzZBzqMAKaFg7d2": {
+      "address": "0x45766AE12411450e20bd1c8cca1e63DffD834e19",
+      "eth_symbol": "VARR",
+      "vrsc_symbol": "vARRR"
+    },
+    "i61cV2uicKSi1rSMQCBNQeSYC3UAi9GVzd": {
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "eth_symbol": "USDC",
+      "vrsc_symbol": "vUSDC.vETH"
+    },
+    "i9oCSqKALwJtcv49xUKS2U2i79h1kX6NEY": {
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "eth_symbol": "USDT",
+      "vrsc_symbol": "vUSDT.vETH"
+    },
+    "i9nwxtKuVYX4MSbeULLiK2ttVi6rUEhh4X": {
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "eth_symbol": "WETH",
+      "vrsc_symbol": "vETH"
+    },
+    "iJ3WZocnjG9ufv7GKUA4LijQno5gTMb7tP": {
+      "address": "0x714cFa2DA83b53b8fe2c1c9F99ca723A4c61AD48",
+      "eth_symbol": "CHIPS",
+      "vrsc_symbol": "CHIPS"
+    },
+    "i6SapneNdvpkrLPgqPhDVim7Ljek3h2UQZ": {
+      "address": "0x504DAa3346f4AE4E624932FD654339Ad971FB242",
+      "eth_symbol": "SUPERNET",
+      "vrsc_symbol": "SUPERNET"
+    },
+    "iHog9UCTrn95qpUBFCZ7kKz7qWdMA8MQ6N": {
+      "address": "0x0609Aede2f67C136bcb0e413E298F6cA8e283c37",
+      "eth_symbol": "VDEX",
+      "vrsc_symbol": "vDEX"
+    }
+  }
+}
